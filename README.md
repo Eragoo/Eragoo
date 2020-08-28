@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Yevhenii Kukhol and i'm Java developer\n
+My name is Yevhenii Kukhol and i'm Java developer
+
 ✉️ Contact: eugene.kukhol@gmail.com
 
 #### My pet project's 
